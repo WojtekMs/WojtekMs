@@ -21,7 +21,7 @@ I find tests more and more helpful when building complex programs. If we can't b
 - 💞️ I’m interested in participating in a group project.  
 I'm looking for a fresh C++ open source project to contribute to.
 
-- 📫 If you would like to contact me feel free to send me an e-mail: wojtek.matusiak5@gmail.com
+- 📫 If you would like to contact me feel free to send me an e-mail: wojciech@matusiak.dev
 
 <!---
 WojtekMs/WojtekMs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
