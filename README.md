@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @WojtekMs.  
 I am eager to learn new things and cooperate with other people. I agree with Alexander Stepanov, about taking programming seriously and responsibly.  
 I try to follow the best practices and keep the code base clean.  
-I find tests more and more helpful when building complex programs. If we can't be sure whether low-level things work, how can we build high-level things?
+I find tests more and more helpful when building complex programs.
 
 - 👀 I’m interested in:
   -  C++ 
